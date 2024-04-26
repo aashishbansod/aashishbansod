@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aashishbansod
-- 👀 I’m interested in ... ( Hacking )
+- 👀 I’m interested in ... ( Web Development/Hacking )
 - 🌱 I’m currently learning ... A.I ( Artificial Intelligence )
-- 💞️ I’m looking to collaborate on ... (None)
+- 💞️ I’m looking to collaborate on ... (H.D.N Pvt Limited)
 - 📫 How to reach me ... (10M)
 
 <!---
