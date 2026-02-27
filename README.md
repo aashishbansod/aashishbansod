@@ -29,7 +29,7 @@ Working with AWS, Linux, Docker, and automation tools to design resilient system
 
 # ☁️ My Skills
 
-<table align="center">
+<table align="center" border"0">
 <tr>
 <td>
 
