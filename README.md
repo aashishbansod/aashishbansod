@@ -82,107 +82,59 @@ Cloud Security & DevSecOps Enthusiast focused on building secure, scalable cloud
 
 ---
 
-# 🔐 Cyber Security
-
-<table align="center">
-<tr>
-<td width="50%">
-
-<a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux" height="40"/></a>
-<b> Linux – System Administration</b>
-
-<br><br>
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" height="40"/></a>
-<b> Python – Security Automation</b>
-
-<br><br>
-
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://skillicons.dev/icons?i=bash" height="40"/></a>
-<b> Bash – Scripting</b>
-
-<br><br>
-
-<a href="https://nmap.org/">
-<img src="https://img.icons8.com/color/48/nmap.png" height="40"/></a>
-<b> Nmap – Network Scanning</b>
-
-</td>
-
-<td width="50%">
-
-<a href="https://portswigger.net/burp">
-<img src="https://img.icons8.com/color/48/burp-suite.png" height="40"/></a>
-<b> Burp Suite – Web Security Testing</b>
-
-<br><br>
-
-<a href="https://www.metasploit.com/">
-<img src="https://img.icons8.com/color/48/metasploit.png" height="40"/></a>
-<b> Metasploit – Exploitation Framework</b>
-
-<br><br>
-
-<a href="https://www.wireshark.org/">
-<img src="https://img.icons8.com/color/48/wireshark.png" height="40"/></a>
-<b> Wireshark – Packet Analysis</b>
-
-<br><br>
-
-<a href="https://owasp.org/">
-<img src="https://img.icons8.com/color/48/owasp.png" height="40"/></a>
-<b> OWASP – Web Security Standards</b>
-
-</td>
-</tr>
-</table>
-
 ---
 
 # 💻 Frontend Development
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" height="40"/></a>
-<b> HTML – Markup Language</b>
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>HTML – Markup Language</b>
+</p>
 
-<br><br>
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>CSS – Styling</b>
+</p>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" height="40"/></a>
-<b> CSS – Styling</b>
-
-<br><br>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" height="40"/></a>
-<b> JavaScript – Frontend Logic</b>
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>JavaScript – Frontend Logic</b>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" height="40"/></a>
-<b> React – UI Development</b>
+<p>
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>React – UI Development</b>
+</p>
 
-<br><br>
+<p>
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Tailwind – Utility CSS</b>
+</p>
 
-<a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" height="40"/></a>
-<b> Tailwind – Utility CSS</b>
-
-<br><br>
-
-<a href="https://vitejs.dev/">
-<img src="https://skillicons.dev/icons?i=vite" height="40"/></a>
-<b> Vite – Build Tool</b>
+<p>
+<a href="https://vitejs.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vite" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Vite – Build Tool</b>
+</p>
 
 </td>
 </tr>
@@ -192,50 +144,175 @@ Cloud Security & DevSecOps Enthusiast focused on building secure, scalable cloud
 
 # 🧠 Backend Development
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/></a>
-<b> Node.js – Backend Runtime</b>
+<p>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Node.js – Backend Runtime</b>
+</p>
 
-<br><br>
+<p>
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Express – Web Framework</b>
+</p>
 
-<a href="https://expressjs.com/">
-<img src="https://skillicons.dev/icons?i=express" height="40"/></a>
-<b> Express – Web Framework</b>
-
-<br><br>
-
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/></a>
-<b> MySQL – Relational Database</b>
+<p>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>MySQL – Relational Database</b>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<a href="https://www.mongodb.com/">
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/></a>
-<b> MongoDB – NoSQL Database</b>
+<p>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>MongoDB – NoSQL Database</b>
+</p>
 
-<br><br>
+<p>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Git – Version Control</b>
+</p>
 
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" height="40"/></a>
-<b> Git – Version Control</b>
-
-<br><br>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-<b> GitHub – Collaboration</b>
+<p>
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>GitHub – Collaboration</b>
+</p>
 
 </td>
 </tr>
 </table>
 
+---
+
+# ☁️ Cloud Engineering
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<p>
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=aws" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>AWS – Cloud Infrastructure</b>
+</p>
+
+<p>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Docker – Containerization</b>
+</p>
+
+<p>
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=kubernetes" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Kubernetes – Orchestration</b>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p>
+<a href="https://www.terraform.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=terraform" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Terraform – Infrastructure as Code</b>
+</p>
+
+<p>
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=jenkins" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Jenkins – CI/CD Automation</b>
+</p>
+
+<p>
+<a href="https://www.ansible.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=ansible" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Ansible – Configuration Management</b>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔐 Cyber Security & Ethical Hacking
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<p>
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Linux – System Administration</b>
+</p>
+
+<p>
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Python – Security Automation</b>
+</p>
+
+<p>
+<a href="https://nmap.org/" target="_blank">
+<img src="https://img.icons8.com/color/48/nmap.png" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Nmap – Network Scanning</b>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p>
+<a href="https://portswigger.net/burp" target="_blank">
+<img src="https://img.icons8.com/color/48/burp-suite.png" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Burp Suite – Web Security Testing</b>
+</p>
+
+<p>
+<a href="https://www.metasploit.com/" target="_blank">
+<img src="https://img.icons8.com/color/48/metasploit.png" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Metasploit – Exploitation Framework</b>
+</p>
+
+<p>
+<a href="https://www.wireshark.org/" target="_blank">
+<img src="https://img.icons8.com/color/48/wireshark.png" height="38" align="left"/>
+</a>
+&nbsp;&nbsp;<b>Wireshark – Packet Analysis</b>
+</p>
+
+</td>
+</tr>
+</table>
 ---
 
 # 📊 GitHub Stats
