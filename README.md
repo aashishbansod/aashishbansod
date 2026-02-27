@@ -19,23 +19,15 @@
 <!-- Social Icons Only (Single Line Perfect Center) -->
 
 <p align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/YOUR-USERNAME" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="45" />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/YOUR-USERNAME" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45" />
-</a>
-
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00BFFF?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://github.com/aashishbansod">
+    <img src="https://img.shields.io/badge/GITHUB-24292E?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
