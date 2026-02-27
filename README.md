@@ -10,6 +10,7 @@
   <a href="https://leetcode.com/YOUR-USERNAME">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
+  <br>
   <a href="https://instagram.com/YOUR-USERNAME">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
