@@ -1,17 +1,40 @@
 <!-- Animated Name -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ashish+%F0%9F%91%8B&repeat=false" />
+<img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ashish+%F0%9F%91%8B&repeat=false" />
+</p>
+
+<!-- Animated Roles -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=900&lines=Cloud+Security+Engineer;DevSecOps+Enthusiast;Cybersecurity+Learner;Secure+Cloud+Infrastructure+Builder" />
+</p>
+
+<br>
+
+<!-- Social Buttons -->
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/YOUR-USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/YOUR-USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
-
-<!-- Animated Role After Name -->
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=900&lines=Cloud+Security+Engineer;DevSecOps+Enthusiast;Cybersecurity+Learner;Secure+Cloud+Infrastructure+Builder" />
-</p>
-
 ---
 
 <p align="center">
