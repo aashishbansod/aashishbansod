@@ -4,10 +4,10 @@
   <a href="https://linkedin.com/in/YOUR-LINK">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://leetcode.com/YOUR-USERNAME">
+  <a href="https://leetcode.com/u/aashishbansod99/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
-  <a href="https://instagram.com/YOUR-USERNAME">
+  <a href="https://www.instagram.com/_dev.aash?igsh=Z3NxZTB3cnoxdnlk">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
