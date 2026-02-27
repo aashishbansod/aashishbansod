@@ -3,16 +3,13 @@
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <br>
+  </a><hr>
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <br>
   <a href="https://leetcode.com/YOUR-USERNAME">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
-  <br>
   <a href="https://instagram.com/YOUR-USERNAME">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
