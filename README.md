@@ -19,16 +19,16 @@
 <!-- Social Icons Only (Single Line Perfect Center) -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="www.linkedin.com/in/ashish-bansod-019393266">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://aashishbansod.dev">
     <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="https://leetcode.com/YOUR-USERNAME">
+  <a href="https://leetcode.com/u/aashishbansod99/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
-  <a href="https://instagram.com/YOUR-USERNAME">
+  <a href="https://www.instagram.com/_dev.aash?igsh=Z3NxZTB3cnoxdnlk">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
