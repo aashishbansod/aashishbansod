@@ -22,73 +22,11 @@ Cloud Security & DevSecOps Enthusiast focused on building secure, scalable cloud
 
 ---
 
-# ☁️ Cloud Engineering
-
-<table align="center">
-<tr>
-<td width="50%">
-
-<a href="https://aws.amazon.com/">
-<img src="https://skillicons.dev/icons?i=aws" height="40"/></a>
-<b> AWS – Cloud Infrastructure</b>
-
-<br><br>
-
-<a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" height="40"/></a>
-<b> Docker – Containerization</b>
-
-<br><br>
-
-<a href="https://kubernetes.io/">
-<img src="https://skillicons.dev/icons?i=kubernetes" height="40"/></a>
-<b> Kubernetes – Orchestration</b>
-
-<br><br>
-
-<a href="https://www.terraform.io/">
-<img src="https://skillicons.dev/icons?i=terraform" height="40"/></a>
-<b> Terraform – Infrastructure as Code</b>
-
-</td>
-
-<td width="50%">
-
-<a href="https://cloud.google.com/">
-<img src="https://skillicons.dev/icons?i=gcp" height="40"/></a>
-<b> GCP – Cloud Platform</b>
-
-<br><br>
-
-<a href="https://azure.microsoft.com/">
-<img src="https://skillicons.dev/icons?i=azure" height="40"/></a>
-<b> Azure – Cloud Services</b>
-
-<br><br>
-
-<a href="https://www.jenkins.io/">
-<img src="https://skillicons.dev/icons?i=jenkins" height="40"/></a>
-<b> Jenkins – CI/CD Automation</b>
-
-<br><br>
-
-<a href="https://www.ansible.com/">
-<img src="https://skillicons.dev/icons?i=ansible" height="40"/></a>
-<b> Ansible – Configuration Management</b>
-
-</td>
-</tr>
-</table>
-
----
-
----
-
 # 💻 Frontend Development
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
