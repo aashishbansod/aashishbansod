@@ -4,15 +4,9 @@
   <a href="https://linkedin.com/in/YOUR-LINK">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  
   <a href="https://leetcode.com/YOUR-USERNAME">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
-  
   <a href="https://instagram.com/YOUR-USERNAME">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -21,61 +15,78 @@
 ---
 
 <p align="center">
-Cloud Security & DevSecOps Enthusiast focused on building secure, scalable cloud infrastructure.  
-Working with AWS, Linux, Docker, and automation tools to design resilient systems.
+Cloud Security & DevSecOps Enthusiast focused on building secure, scalable cloud infrastructure.
 </p>
 
 ---
 
 # ☁️ My Skills
 
-<table align="center" border"0">
+<table align="center">
 <tr>
-<td>
-
-<img src="https://skillicons.dev/icons?i=aws" height="45"/>  
-<b>AWS - Cloud Infrastructure</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=docker" height="45"/>  
-<b>Docker - Containerization</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=kubernetes" height="45"/>  
-<b>Kubernetes - Orchestration</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=terraform" height="45"/>  
-<b>Terraform - Infrastructure as Code</b>
-
-</td>
-
-<td width="50"></td>
 
 <td>
 
-<img src="https://skillicons.dev/icons?i=linux" height="45"/>  
-<b>Linux - System Administration</b>
+<a href="https://aws.amazon.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
+</a>
+<b> AWS - Cloud Infrastructure</b>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python" height="45"/>  
-<b>Python - Security Automation</b>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+</a>
+<b> Docker - Containerization</b>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=bash" height="45"/>  
-<b>Bash - Scripting</b>
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>
+</a>
+<b> Kubernetes - Orchestration</b>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git" height="45"/>  
-<b>Git - Version Control</b>
+<a href="https://www.terraform.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=terraform" height="40"/>
+</a>
+<b> Terraform - Infrastructure as Code</b>
 
 </td>
+
+<td width="80"></td>
+
+<td>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+</a>
+<b> Linux - System Administration</b>
+
+<br><br>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+</a>
+<b> Python - Security Automation</b>
+
+<br><br>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bash" height="40"/>
+</a>
+<b> Bash - Scripting</b>
+
+<br><br>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+</a>
+<b> Git - Version Control</b>
+
+</td>
+
 </tr>
 </table>
 
