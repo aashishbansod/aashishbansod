@@ -1,124 +1,99 @@
-<!-- MATRIX HEADER -->
+<!-- ================= CYBERNET HEADER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f1f,100:003300&height=250&section=header&text=ASHISH%20GAJANAN%20BANSOD&fontSize=42&fontColor=00ff00&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001a00,100:003300&height=220&section=header&text=CYBERNET&fontSize=60&fontColor=00ff00&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=800&lines=Initializing+Cloud+Security+Protocol...;Cybersecurity+Mode:+ACTIVE;AWS+%7C+Linux+%7C+DevSecOps;Building+Secure+Scalable+Infrastructure;Ethical+Hacking+%7C+Automation+%7C+Defense" />
-</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00FF00&center=true&vCenter=true&width=900&lines=Cloud+Security;Cybersecurity;Ethical+Hacking;DevSecOps;Secure+Infrastructure+Architecture" />
+</h3>
 
 ---
 
-# 🛡 SYSTEM PROFILE
+<!-- ================= SYSTEM INFO ================= -->
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cloud-Engineering-000000?style=for-the-badge&logo=amazonaws&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/Cyber-Security-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/Ethical-Hacking-000000?style=for-the-badge&logo=kali-linux&logoColor=00ff00"/>
+
+</p>
+
+---
+
+# 🛡 TECH STACK
+
+## ☁️ Cloud & DevOps
+
+<p align="center">
+
+<a href="https://aws.amazon.com" title="Amazon Web Services - Cloud Platform">
+<img src="https://skillicons.dev/icons?i=aws" height="70"/>
+</a>
+
+<a href="https://kubernetes.io" title="Kubernetes - Container Orchestration">
+<img src="https://skillicons.dev/icons?i=kubernetes" height="70"/>
+</a>
+
+<a href="https://www.docker.com" title="Docker - Containerization">
+<img src="https://skillicons.dev/icons?i=docker" height="70"/>
+</a>
+
+<a href="https://www.terraform.io" title="Terraform - Infrastructure as Code">
+<img src="https://skillicons.dev/icons?i=terraform" height="70"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00FF00&center=true&vCenter=true&width=700&lines=AWS+Cloud+Architecture;Docker+Containerization;Kubernetes+Orchestration;Infrastructure+Automation" />
+</p>
+
+---
+
+## 🔐 Cybersecurity & Ethical Hacking
+
+<p align="center">
+
+<a href="https://www.linux.org" title="Linux - System Administration">
+<img src="https://skillicons.dev/icons?i=linux" height="70"/>
+</a>
+
+<a href="https://www.python.org" title="Python - Security Automation">
+<img src="https://skillicons.dev/icons?i=python" height="70"/>
+</a>
+
+<a href="https://www.gnu.org/software/bash/" title="Bash - Scripting">
+<img src="https://skillicons.dev/icons?i=bash" height="70"/>
+</a>
+
+<a href="https://git-scm.com" title="Git - Version Control">
+<img src="https://skillicons.dev/icons?i=git" height="70"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00FF00&center=true&vCenter=true&width=800&lines=Linux+System+Hardening;Python+Security+Tools;Bash+Automation;Network+Security+Fundamentals" />
+</p>
+
+---
+
+# ⚡ SYSTEM STATUS
 
 ```diff
-+ Name        : Ashish Gajanan Bansod
-+ Role        : Future Cloud Security Engineer
-+ Focus       : DevSecOps | Cloud Architecture | Cyber Defense
-+ Environment : Linux | AWS | Docker | Kubernetes
-+ Status      : Learning. Building. Securing.
++ Brand      : CyberNet
++ Focus      : Cloud Security & DevSecOps
++ Specialty  : Secure Infrastructure Design
++ Mindset    : Security First
++ Mission    : Secure the Cloud. Protect the Future.
 ```
 
 ---
 
-# 🧠 CORE COMPETENCIES
-
-## ☁️ Cloud Engineering
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
-<a href="https://aws.amazon.com">
-<img src="https://skillicons.dev/icons?i=aws" height="65"/>
-</a>
-<a href="https://kubernetes.io/">
-<img src="https://skillicons.dev/icons?i=kubernetes" height="65"/>
-</a>
-<a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" height="65"/>
-</a>
-<a href="https://www.terraform.io/">
-<img src="https://skillicons.dev/icons?i=terraform" height="65"/>
-</a>
-</p>
-
----
-
-## 🔐 Cybersecurity Stack
-
-<p align="center">
-<a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux" height="65"/>
-</a>
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" height="65"/>
-</a>
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://skillicons.dev/icons?i=bash" height="65"/>
-</a>
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" height="65"/>
-</a>
-</p>
-
----
-
-# ⚡ AUTOMATION & DEVSECOPS
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=github,js,html,css,vscode" height="65"/>
-</p>
-
----
-
-# 📊 LIVE SYSTEM METRICS
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aashishbansod&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishbansod&theme=vision-friendly-dark&hide_border=true&background=00000000" height="180"/>
-</p>
-
----
-
-# 🐍 ACTIVITY MONITOR
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/aashishbansod/github-snake/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🧬 SECURITY PHILOSOPHY
-
-> 🔐 "Security is not a feature — it is the foundation."  
-> ☁️ "Cloud is powerful when it is secure."  
-> 🚀 "Build. Break. Secure. Repeat."
-
----
-
-# 🎯 CURRENT OBJECTIVES
-
-- 🔹 Master AWS Security Architecture  
-- 🔹 Build Secure CI/CD Pipeline  
-- 🔹 Deploy Dockerized Applications  
-- 🔹 Practice Ethical Hacking Labs  
-- 🔹 Contribute to Open Source Security Tools  
-
----
-
-# 🌐 CONNECT
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00"/>
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff00"/>
-</a>
-</p>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:000000&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:000000&height=140&section=footer"/>
 </p>
