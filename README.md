@@ -1,51 +1,86 @@
-<!-- HEADER -->
 <h1 align="center">Hi there, I'm Ashish 👋</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00BFFF?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="https://github.com/aashishbansod">
-    <img src="https://img.shields.io/badge/GITHUB-24292E?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://leetcode.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
+  <a href="https://instagram.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
 ---
 
 <p align="center">
-Cloud Security & DevOps Enthusiast focused on building secure, scalable cloud infrastructure.  
+Cloud Security & DevSecOps Enthusiast focused on building secure, scalable cloud infrastructure.  
 Working with AWS, Linux, Docker, and automation tools to design resilient systems.
 </p>
 
 ---
 
-## ☁️ My Skills
+# ☁️ My Skills
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,python,bash,git" height="60"/>
-</p>
+<table align="center">
+<tr>
+<td>
+
+<img src="https://skillicons.dev/icons?i=aws" height="45"/>  
+<b>AWS - Cloud Infrastructure</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>  
+<b>Docker - Containerization</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=kubernetes" height="45"/>  
+<b>Kubernetes - Orchestration</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=terraform" height="45"/>  
+<b>Terraform - Infrastructure as Code</b>
+
+</td>
+
+<td width="50"></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>  
+<b>Linux - System Administration</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" height="45"/>  
+<b>Python - Security Automation</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=bash" height="45"/>  
+<b>Bash - Scripting</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git" height="45"/>  
+<b>Git - Version Control</b>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 My Favorite Projects
-
-### 🔹 Cloud Deployment System  
-Secure AWS EC2 deployment with Docker containerization.
-
-### 🔹 DevSecOps Pipeline  
-CI/CD pipeline with automated security checks.
-
-### 🔹 Python Security Tools  
-Custom automation scripts for system monitoring.
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashishbansod&show_icons=true&theme=default&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishbansod&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aashishbansod&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishbansod&theme=github_dark&hide_border=true" height="170"/>
 </p>
