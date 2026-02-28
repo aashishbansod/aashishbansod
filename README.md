@@ -19,7 +19,7 @@
 <!-- Social Icons Only (Single Line Perfect Center) -->
 
 <p align="center">
-  <a href="www.linkedin.com/in/ashish-bansod-019393266">
+  <a href="https://www.linkedin.com/in/aashishbansod/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://aashishbansod.dev">
@@ -46,7 +46,7 @@ Cloud Security & DevSecOps Enthusiast focused on building secure, scalable cloud
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-
+  
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://skillicons.dev/icons?i=html" height="38" align="left"/>
 </a>
