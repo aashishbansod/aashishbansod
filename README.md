@@ -21,6 +21,11 @@
   <a href="https://aashishbansod.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
+
+<a href="www.youtube.com/@algocoreofficial">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  
   <a href="https://leetcode.com/u/aashishbansod99/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
