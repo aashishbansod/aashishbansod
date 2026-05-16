@@ -1,13 +1,20 @@
 <!-- ========================= -->
 <!--        ANIMATED INTRO     -->
 <!-- ========================= -->
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ashish+%F0%9F%91%8B&repeat=false" />
+
+<img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3500&pause=1000&color=00CFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ashish+%F0%9F%91%8B&repeat=false" />
+
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Software+Development+Engineer+%7C+Full+Stack+Developer;DSA+%26+Problem+Solving+Enthusiast;System+Design+Learner;Building+Scalable+Applications" />
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=00CFFF&center=true&vCenter=true&width=900&lines=Software+Development+Engineer+%7C+Full+Stack+Developer;DSA+%26+Problem+Solving+Enthusiast;System+Design+Learner;Building+Scalable+Applications" />
+
 </p>
+
+<br>
 
 <br>
 
