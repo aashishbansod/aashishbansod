@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:001B3D,100:0066FF&height=180&section=header&animation=twinkling" width="100%" alt="Ashish Bansod GitHub Profile Header">
 
 #  Ashish Bansod
 
@@ -69,65 +68,6 @@ I believe in **continuous learning, innovation and building products that create
 <a href="https://cybernetsystems.tech">
 <img src="https://img.shields.io/badge/VISIT%20CYBERNET%20TECHNOLOGY-0066FF?style=for-the-badge&labelColor=000000" alt="Visit CyberNet Technology">
 </a>
-
-</div>
-
----
-
-# 💻 Technical Skills
-
-## Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql&theme=dark" alt="Java Python JavaScript HTML CSS SQL">
-
-</div>
-
-## Frontend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,javascript&theme=dark" alt="React Next.js HTML CSS Tailwind JavaScript">
-
-</div>
-
-## Backend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" alt="Java Spring Boot Node.js Express">
-
-</div>
-
-## Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" alt="MongoDB MySQL PostgreSQL">
-
-</div>
-
-## AI & Machine Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="Python TensorFlow PyTorch Artificial Intelligence Machine Learning">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-000000?style=for-the-badge&logo=openai&logoColor=00A8FF" alt="Artificial Intelligence">
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-001B3D?style=for-the-badge&logo=python&logoColor=00A8FF" alt="Machine Learning">
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-0066FF?style=for-the-badge&logoColor=white" alt="Generative AI">
-<img src="https://img.shields.io/badge/AI%20AUTOMATION-000000?style=for-the-badge&logo=robotframework&logoColor=00A8FF" alt="AI Automation">
-
-</div>
-
-## Cloud, DevOps & Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&theme=dark" alt="Git GitHub Docker Linux Postman Visual Studio Code">
 
 </div>
 
