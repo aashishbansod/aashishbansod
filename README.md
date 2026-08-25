@@ -21,7 +21,7 @@
 </a>
 &nbsp;
 
-<a href="https://www.instagram.com/_dev.aash/">
+<a href="https://www.instagram.com/aashishbansod_/">
 <img src="https://img.shields.io/badge/📸%20INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Ashish Bansod Instagram">
 </a>
 
