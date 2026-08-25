@@ -31,10 +31,7 @@ Building modern software products, AI-powered applications, scalable web platfor
 <img src="https://komarev.com/ghpvc/?username=aashishbansod&label=PROFILE%20VIEWS&color=0066FF&style=for-the-badge" alt="Ashish Bansod Profile Views">
 
 </div>
-
----
-
-# 👨‍💻 About Me
+<div font-weight: bold;>👨‍💻 About Me </div> <br>
 
 I'm **Ashish Bansod**, Founder of **CyberNet Technology** and a **Software Development Engineer** focused on building modern software products and technology solutions that solve real-world problems.
 
@@ -42,7 +39,7 @@ I enjoy designing and developing **scalable web applications, AI-powered tools, 
 
 At **CyberNet Technology**, I'm working on software products, internship platforms and technology-driven solutions that help students and businesses leverage practical, industry-focused technology.
 
-### Core Areas
+**Core Areas**
 
 * ⚡ Full Stack Software Development
 * 🤖 AI-Powered Applications & Automation
@@ -59,10 +56,6 @@ I believe in **continuous learning, innovation and building products that create
 
 ###   <div align="center"> Building software. Creating products. Engineering the future. </div>
 
----
-
-
-
 <div align="center">
 
 <a href="https://cybernetsystems.tech">
@@ -70,15 +63,10 @@ I believe in **continuous learning, innovation and building products that create
 </a>
 
 </div>
-
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,50:001B3D,100:000000&height=120&section=footer&animation=twinkling" width="100%" alt="CyberNet Technology Animated Footer">
 
-###  Building Software. Creating Products. Engineering the Future.
 
 **Ashish Bansod · CyberNet Technology**
 
